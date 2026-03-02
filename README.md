@@ -1,3 +1,3 @@
 # jannesissue-test
 
-*It a test **[readedme](https://lucide.dev/icons/?search=bul)** *
+*It a test **[readedme](https://github.com/Legit-Control/colibri-website/issues/57)** *
